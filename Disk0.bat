@@ -1,4 +1,5 @@
 diskpart
+list disk
 select disk 0
-clean
+clean all
 exit
