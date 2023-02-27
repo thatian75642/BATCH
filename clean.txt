@@ -1,3 +1,23 @@
 select disk 0
 clean all
+select disk 1
+clean all
+select disk 2
+clean all
+select disk 3
+clean all
+select disk 4
+clean all
+select disk 5
+clean all
+select disk 6
+clean all
+select disk 7
+clean all
+select disk 8
+clean all
+select disk 9
+clean all
 exit
+
+
